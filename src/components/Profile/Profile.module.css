@@ -3,8 +3,7 @@
     border-radius: 1em 1em 1em 1em;
     background-color: white;
     width: 700px;
-    height: 770px;
-
+    margin-bottom: 30px;
 }
 
 .userProfile {
@@ -20,8 +19,8 @@
 }
 
 .picture {
-    width: 260px;
-    height: 260px;
+    max-width: 260px;
+    max-height: 260px;
     border-radius: 50%;
     background-color: #2a2a2a;
     margin-bottom: 30px;
